@@ -20,7 +20,8 @@ body{
     background-image: url(../img/main-bg.png);
     background-repeat: no-repeat;
     background-position: top center;
-    background-size: 100%;    /* или auto */
+    background-size: 100%;   
+    overflow-x: hidden;
 }
 
 .container{
